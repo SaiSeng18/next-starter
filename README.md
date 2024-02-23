@@ -43,4 +43,4 @@ Contributions are welcome. Please open an issue or submit a pull request.
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-![Screenshot](ww.gg.com)
+![Screenshot](https://github.com/SaiSeng18/next-starter/blob/main/public/screenshot.png?raw=true)https://github.com/SaiSeng18/next-starter/blob/main/public/screenshot.png?raw=true)
