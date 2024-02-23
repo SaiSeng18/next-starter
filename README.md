@@ -1,4 +1,4 @@
-## Project Title
+## Next Full Stack Starter
 
 This project is a web application built with Next.js, a popular React framework, and TypeScript, a statically typed superset of JavaScript that adds optional types.
 
